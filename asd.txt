@@ -1,1 +1,2 @@
 test git bai 4
+chinh sua flie xong push len lai
